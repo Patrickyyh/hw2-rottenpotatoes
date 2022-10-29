@@ -1,0 +1,3 @@
+Github Repository: https://github.com/Patrickyyh/hw2-rottenpotatoes
+URL of heroku app: https://rottenpotatoesyyh.herokuapp.com/
+Url of heroku repo: https://dashboard.heroku.com/apps/rottenpotatoesyyh
